@@ -1,8 +1,3 @@
----
-title: Morristin's DreamLand README
-description: Morristin 个人博客与公开知识库 DreamLand 的介绍文本。
----
-
 <div align="center">
 
 # DreamLand
