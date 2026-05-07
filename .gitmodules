@@ -1,3 +1,9 @@
 [submodule ".obsidian"]
 	path = .obsidian
 	url = git@github.com:Morristin/Obsidian-Config.git
+[submodule "03 - Homework & Draft"]
+	path = 03 - Homework & Draft
+	url = git@github.com:Morristin-DreamLand/Homework.git
+[submodule "02 - Knowledge Base"]
+	path = 02 - Knowledge Base
+	url = git@github.com:Morristin-DreamLand/Knowledge-Base.git
